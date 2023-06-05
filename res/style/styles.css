@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+:root {
+    --color-primary: black;
+    --color-secondary: darkgrey;
+    --color-accent: lightblue;
+}
